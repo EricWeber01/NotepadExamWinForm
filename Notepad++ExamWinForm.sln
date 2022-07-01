@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad++ExamWinForm", "Notepad++ExamWinForm\Notepad++ExamWinForm.csproj", "{106B6A6B-618E-42E3-AF78-A3EB9966CC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106B6A6B-618E-42E3-AF78-A3EB9966CC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106B6A6B-618E-42E3-AF78-A3EB9966CC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106B6A6B-618E-42E3-AF78-A3EB9966CC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106B6A6B-618E-42E3-AF78-A3EB9966CC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87A85BB-79B1-4098-84B8-53B5E30C18A1}
+	EndGlobalSection
+EndGlobal
